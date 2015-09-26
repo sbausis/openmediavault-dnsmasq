@@ -149,7 +149,7 @@ Ext.define("OMV.module.admin.service.dnsmasq.Settings", {
                 fieldLabel    : _("Lease Network"),
                 emptyText     : _("Select a network ..."),
                 allowBlank    : true,
-                editable      : false,
+                editable      : true,
                 triggerAction : "all",
                 displayField  : "netid",
                 valueField    : "netid",
