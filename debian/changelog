@@ -1,3 +1,9 @@
+openmediavault-dnsmasq (2.1.1) UNRELEASED; urgency=low
+
+  * Take over :)
+
+ -- Simon Pascal Baur <simonbaur@0rca.ch>  Sat, 19 Dec 2015 19:23:00 +0100
+
 openmediavault-dnsmasq (2.1) UNRELEASED; urgency=low
 
   * Fix lease listing
